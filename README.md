@@ -62,4 +62,5 @@ Si a pesar de lo descrito anteriormente desea desplegar todos los microservicios
 3. Cambiar la configuración de los microservicios para que apunten a la base de datos MySQL del servidor
 4. Entrar en la carpeta de cada microservicio y ejecutar el comando ```python main.py```
 
-
+### Escenarios de Calidad
+Los escenarios de calidad se explican en el video explicativo. Alrededor del minuto 19:42
