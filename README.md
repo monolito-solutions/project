@@ -52,7 +52,9 @@ Si a pesar de lo descrito anteriormente desea desplegar todos los microservicios
 
 # Videos de Explicación - Entrega 1
 
-- Explicación completa: https://youtu.be/eovWf5dlkoQ
+- Explicación completa (Es el mismo video):
+    - Youtube: https://youtu.be/eovWf5dlkoQ
+    - Google Drive: https://drive.google.com/file/d/1cX5VKM-m-yrjy72Xhnx3cl9VAaH3pBrf/view?usp=sharing
 - Tutorial de cómo correr el proyecto en un único ambiente (único servidor): https://youtu.be/1AatCaZghes
 
 ## Abrir en GitPod
