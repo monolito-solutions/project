@@ -18,6 +18,18 @@ Cada microservicio se desarrolló en su propio repositorio y se integra en este 
 - **outbound**: https://github.com/monolito-solutions/outbound
 - **notifications-ui**: https://github.com/monolito-solutions/notifications-ui
 
+## Videos de Explicación - Entrega 1
+
+- Explicación completa (Es el mismo video):
+    - Youtube: https://youtu.be/eovWf5dlkoQ
+    - Google Drive: https://drive.google.com/file/d/1cX5VKM-m-yrjy72Xhnx3cl9VAaH3pBrf/view?usp=sharing
+- Tutorial de cómo correr el proyecto en un único ambiente (único servidor): https://youtu.be/1AatCaZghes
+
+### Abrir en GitPod
+<a href="https://gitpod.io/#https://github.com/monolito-solutions/project" style="padding: 10px;">
+    <img src="https://gitpod.io/button/open-in-gitpod.svg" width="150" alt="Push" align="center">
+</a>
+
 ## Despliegue
 
 El proyecto "Entregas de los Alpes" utiliza Apache Pulsar como sistema de mensajería y bases de datos descentralizadas y únicas para cada microservicio. Estos se despliegan con Docker Compose en sus respectivos servidores.
@@ -50,14 +62,4 @@ Si a pesar de lo descrito anteriormente desea desplegar todos los microservicios
 3. Cambiar la configuración de los microservicios para que apunten a la base de datos MySQL del servidor
 4. Entrar en la carpeta de cada microservicio y ejecutar el comando ```python main.py```
 
-# Videos de Explicación - Entrega 1
 
-- Explicación completa (Es el mismo video):
-    - Youtube: https://youtu.be/eovWf5dlkoQ
-    - Google Drive: https://drive.google.com/file/d/1cX5VKM-m-yrjy72Xhnx3cl9VAaH3pBrf/view?usp=sharing
-- Tutorial de cómo correr el proyecto en un único ambiente (único servidor): https://youtu.be/1AatCaZghes
-
-## Abrir en GitPod
-<a href="https://gitpod.io/#https://github.com/monolito-solutions/project" style="padding: 10px;">
-    <img src="https://gitpod.io/button/open-in-gitpod.svg" width="150" alt="Push" align="center">
-</a>
