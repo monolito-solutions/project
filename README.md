@@ -50,9 +50,10 @@ Si a pesar de lo descrito anteriormente desea desplegar todos los microservicios
 3. Cambiar la configuración de los microservicios para que apunten a la base de datos MySQL del servidor
 4. Entrar en la carpeta de cada microservicio y ejecutar el comando ```python main.py```
 
-# Video de Explicación - Entrega 1
+# Videos de Explicación - Entrega 1
 
-Video: https://youtu.be/eovWf5dlkoQ
+- Explicación completa: https://youtu.be/eovWf5dlkoQ
+- Tutorial de cómo correr el proyecto en un único ambiente (único servidor): https://youtu.be/1AatCaZghes
 
 ## Abrir en GitPod
 <a href="https://gitpod.io/#https://github.com/monolito-solutions/project" style="padding: 10px;">
