@@ -20,7 +20,7 @@ Cada microservicio se desarrolló en su propio repositorio, por lo tanto puede e
 - **outbound**: https://github.com/monolito-solutions/outbound
 - **notifications-ui**: https://github.com/monolito-solutions/notifications-ui
 - **bff**: https://github.com/monolito-solutions/bff
-- **order-saga**: https://github.com/monolito-solutions/order-saga
+- **sagas**: https://github.com/monolito-solutions/sagas
 
 ## Videos de Explicación
 ### - Entrega 1
