@@ -33,7 +33,7 @@ Cada microservicio se desarrolló en su propio repositorio, por lo tanto puede e
 ### - Entrega 2
 - Video Completo:
     - Youtube: https://youtu.be/i9Xq85r8xDQ
-    - Google Drive: https://drive.google.com/file/d/1cX5VKM-m-yrjy72Xhnx3cl9VAaH3pBrf/view?usp=sharing
+    - Google Drive: https://drive.google.com/file/d/1QwKBlA6GxmabY5-8Tced4rw3LgdcO44m/view?usp=share_link
 
 ## Despliegue
 
