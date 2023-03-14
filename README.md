@@ -22,6 +22,16 @@ Cada microservicio se desarrolló en su propio repositorio, por lo tanto puede e
 - **bff**: https://github.com/monolito-solutions/bff
 - **sagas**: https://github.com/monolito-solutions/sagas
 
+### Contribuciones
+Para este proyecto, cada integrante del grupo trabajó en un microservicio aparte. Las contribuciones de cada integrante se encuentra en la tabla a continuación:
+
+|Nombre|Microservicios|Usuario Github|
+|---|---|---|
+|Juan Andrés Romero|Inbound, BFF, Sagas|ElReyZero|
+|Andrés López|Inventory|alnodp|
+|Juan Sebastián Alegría|Notifications UI, Sagas|zejiran|
+|Johan Carvajal|Outbound|johanCarvajalAndes|
+
 ## Videos de Explicación
 ### - Entrega 1
 
